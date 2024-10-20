@@ -1,0 +1,63 @@
+.anta-regular {
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: uppercase;
+  }
+  .goldman-regular {
+    font-family: "Goldman", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: uppercase;
+  }
+  
+  .goldman-bold {
+    font-family: "Goldman", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    text-transform: uppercase;
+  }
+  
+
+.zen-dots-regular {
+    font-family: "Zen Dots", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: uppercase;
+  }
+
+  /* <uniquifier>: Use a unique and descriptive class name
+  // <weight>: Use a value from 200 to 800*/
+  
+.changa-uniquifier {
+    font-family: "Changa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+    text-transform: uppercase;
+  }
+
+  .russo-one-regular {
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: uppercase;
+  }
+
+  /* <uniquifier>: Use a unique and descriptive class name <weight>: Use a value from 200 to 800*/
+
+.oxanium-uniquifier {
+  font-family: "Oxanium", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.audiowide-regular {
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: uppercase;
+  }
+  
