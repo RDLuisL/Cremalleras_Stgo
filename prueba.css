@@ -1,0 +1,13 @@
+.steering-gear-demo {
+    max-width: 436px;
+    margin: 0 auto;
+  }
+  
+  #steering-wheel-turn {
+    opacity: 0;
+  }
+  
+  #wheel-left {
+  /*   transform: rotate(45deg); */
+  }
+  
